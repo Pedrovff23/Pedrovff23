@@ -4,13 +4,11 @@
 </br>
 
 <div dsplay="inline-block">
- <h1 align="left">Olá, me chamo Pedro Victor !</h1>
+ <h1 align="left">Hello Devs, me chamo Pedro Victor 👋!</h1>
 </div>
 
 </br>
 </br>
-
-## Hello Devs, bem vindo ao meu perfil GitHub 👋
 
 ### 🖥️ Tecnologias e Ferramentas:
 
