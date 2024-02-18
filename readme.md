@@ -9,13 +9,15 @@
   mas tenho conhecimento em Java, Banco de dados relacional e não relacional, desenvolvimento android, redes de computadores, segurança da informação entre outros.
 </p>
 <br>
+
  
 <h2>Conhecimentos: </h2>
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/4ea93cbd-0e6b-432c-9cee-cabd171c7b3b">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/aad3c2b6-8923-45fd-9fa4-97620eea5078">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/0e94acb6-53a9-4bbb-a64e-ab57874ed59c">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/bd409cca-5f2a-4c7f-b3aa-6073b91dcb32">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/4585b960-895a-4478-a2b5-bc602b16a14a">
+<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f32aa571-b188-4f50-bf07-4bc0e10e2b36">
+<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/88815062-75c0-4595-be23-c89064f48430">
+<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/06b2c718-765c-4f91-93bd-9666fb8dc855">
+<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/fab7e86e-22a0-468e-9ce3-8cefa9917c63">
+<img width="70px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/0df48a92-79d9-4c27-b2e2-2aac013e2b31">
+<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f8063c43-faef-4339-89d7-df54caf55ce5">
 <a href="https://tryhackme.com/p/pedrovff1123"><img src="https://tryhackme-badges.s3.amazonaws.com/pedrovff1123.png" alt="TryHackMe"></a>
 
 <br>
