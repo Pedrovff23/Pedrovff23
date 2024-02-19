@@ -1,13 +1,13 @@
-<h1>Olá Amigos, me chamo Pedro Victor ! </h1>
-<p>Bem vindo ao meu perfil GitHub.</p>
+<h1>Olá amigos, me chamo Pedro Victor ! </h1>
+<h4>Bem vindo ao meu perfil GitHub.</h4>
 
-<img width="100px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNjcXlrMnFtdDh5ZHQzOTU3ZWF5Y2RxeWMzNzVtOWY0bGczdWowbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
+<img width="150px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNjcXlrMnFtdDh5ZHQzOTU3ZWF5Y2RxeWMzNzVtOWY0bGczdWowbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
 
 <h2>Sobre mim: </h2>
-<p>Sou Formado em Sistema de informação no Centro Universitário Una, atualmente estou aprendendo desenvolvimento web (React)
+<h4>Sou Formado em Sistema de informação no Centro Universitário Una, atualmente estou aprendendo desenvolvimento web (React)
   <br>
   mas tenho conhecimento em Java, Banco de dados relacional e não relacional, desenvolvimento android, redes de computadores, segurança da informação entre outros.
-</p>
+</h4>
 <br>
 
  
