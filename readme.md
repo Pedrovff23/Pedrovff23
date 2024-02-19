@@ -27,8 +27,10 @@
 <h1></h1>
 
 <div>
+  <a href="https://github.com/Pedrovff23">
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedrovff23&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true">
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pedrovff23&layout=compact&langs_count=8&theme=material-palenight">
+  </a>
 </div>
 
 
