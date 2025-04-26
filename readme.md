@@ -12,12 +12,12 @@
 
  
 <h2>Conhecimentos: </h2>
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f32aa571-b188-4f50-bf07-4bc0e10e2b36">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/88815062-75c0-4595-be23-c89064f48430">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/06b2c718-765c-4f91-93bd-9666fb8dc855">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/fab7e86e-22a0-468e-9ce3-8cefa9917c63">
-<img width="70px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/0df48a92-79d9-4c27-b2e2-2aac013e2b31">
-<img width="60px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f8063c43-faef-4339-89d7-df54caf55ce5">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f32aa571-b188-4f50-bf07-4bc0e10e2b36">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/88815062-75c0-4595-be23-c89064f48430">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/06b2c718-765c-4f91-93bd-9666fb8dc855">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/fab7e86e-22a0-468e-9ce3-8cefa9917c63">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/0df48a92-79d9-4c27-b2e2-2aac013e2b31">
+<img width="50px" src="https://github.com/Pedrovff23/Pedrovff23/assets/55757037/f8063c43-faef-4339-89d7-df54caf55ce5">
 <a href="https://tryhackme.com/p/pedrovff1123"><img src="https://tryhackme-badges.s3.amazonaws.com/pedrovff1123.png" alt="TryHackMe"></a>
 
 <br>
